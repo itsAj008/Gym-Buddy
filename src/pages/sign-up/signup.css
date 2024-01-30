@@ -1,0 +1,95 @@
+.signupform {
+  display: flex;
+  gap: 30px;
+  position: relative;
+  top: 100px;
+  left: 25%;
+}
+
+.signupform form {
+  padding: 25px;
+  width: 25%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  background-color: rgb(143, 253, 216);
+  border-radius: 10px;
+}
+
+.admincheckbox {
+  display: flex;
+  gap: 10px;
+}
+
+.signupform .inputfield {
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  width: 200px;
+}
+
+.dob {
+  display: flex;
+  gap: 9px;
+}
+
+.dob select {
+  border: none;
+  border-radius: 3px;
+}
+
+.plan {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.chooseplan {
+  border: none;
+  border-radius: 3px;
+}
+
+.signupform > form > p {
+  color: rgb(52, 101, 102);
+  margin-top: 15px;
+}
+
+#login,
+#signup {
+  border: none;
+  border-radius: 7px;
+  padding: 7px 10px;
+  background-color: rgb(221, 215, 215);
+}
+
+#login {
+  margin-top: 5px;
+}
+
+#signup:hover,
+#login:hover {
+  cursor: pointer;
+  background-color: rgb(156, 155, 155);
+  transform: scale(1.05);
+}
+
+.welcomecmt {
+  margin-top: 40px;
+}
+.welcomecmt p {
+  color: black;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.welcomecmt .gymm {
+  color: green;
+}
+
+.main .logo {
+  font-size: 60px;
+  margin-left: 50%;
+  margin-top: 30px;
+}
