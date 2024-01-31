@@ -1,0 +1,155 @@
+
+🚀 70% of the technical tests focused on mapping over data.
+
+If you can confidently map over data (static json they give you, or the result of an api call) and render it, then this is half the battle (for junior to mid level jobs).
+
+These are useful tests as they assess your skill of rendering in React, how you work with data and using things like state, and the different hooks. 👨🏻‍💻
+
+Get confident at mapping over nested, complex json. Use sites like json placeholder to practice.
+
+🚀 Expect lots of questions about JavaScript, but the most common React specific questions I got were :-
+- Explain this hook? (Usually either useEffect, useMemo or useState)
+- What is the difference between filter, reduce and map methods?
+- What is the virtual DOM?
+
+🚀 Another frequent question I got was.
+We want to build an app with React, what things do we have to consider?
+
+Answer :
+What state management method/library to use?
+How is it going to be rendered? (i.e client side, server side or static).
+Are you going to use a component library?
+Are you going to do Test driven development and use a library like Jest? 💻
+
+🚀Once you get to mid level interviews, I got toy problem questions or was asked to build a small basic app.
+
+The last app was a small currency convertor (with redux, testing, typescript with reusable components). 👨🏻‍💻
+
+Basically these questions/tasks are assessing whether you know the eco system and what goes into the front end of a react app. Like anything, if you talk with confidence and certainty, and own up to what you don’t know, you’ve a good chance. 💻
+
+
+
+
+
+
+    background-color: var(--ribbon-background-color-initial);
+    animation: animate-background-0071e3-f5f5f7 1s ease-in-out 1.8s forwards;
+	
+	
+	
+	
+	
+react questions:
+
+1. Hooks
+useState
+useEffect ( significance of dependency array eg. what happens when its empty, when it has some value, when its not there)
+useContext
+useReducer
+useMemo
+useCallback
+useRef
+
+2. Higher order compoents
+what is it?
+when to use it?
+why we use it?
+how we use it? (prepare an example)
+
+3. Life cycle Methods of the compoenets 
+the three phases and all its methods, the order in which it is called etc.
+
+4.State management 
+all about state and prop
+prop drilling (with example and significance of useContext here)
+
+5. Redux and zustand
+how redux works?
+why do we need redux?
+when do we need redux? (should be able to justify the reason you used redux)
+Redux Toolkit
+
+6.Custom Hooks
+when to use it?
+code it with an example
+(makes our code clean, reusauble and maintainable)
+
+7. lazy loading
+can also be asked as chunking, code splliting, chunking
+(Makes our application performant)
+
+8. Virtual DOM
+Learn these concepts to get a deep understanding
+diffing algorithm
+react- fiber
+reconcilation algorithm
+How react renders a component?
+how react re-renders the component?
+
+9. Client Side rendering and Server Side Rendering (HOT Topic 😛)
+what is it?
+Difference between the two
+Learn about the SEO and performance
+
+10. React Router
+How do we manage protected routes?
+Role based access control?
+how do we handle routes?
+query params and how we handle it?
+Dynamic Routing?
+
+11. Testing (unit testing)
+what u use to write React tests?
+
+12. Async Task
+make API calls?
+what will happen when u scroll, click
+(understand useeEfect and how it works behind the scene)
+Promises (must know)
+
+use keywords like re-usable, modular, testable,  maintainable. 
+13. Focus on the Performance (improve user expereince asset optimization, lazy loading, shimmer UI, optimazation at bundler level, CDN level, server level)
+14. Styling  (pros and cons of using Tailwind over bootstrap vice versa and so on....) 
+15. Accessebility , security, performace, testability (these are the pillars of any application)
+
+
+And most Importantly all the core concepts of JavaScript
+
+
+
+
+
+having things is not exiting ,
+getting things is exiting.
+
+
+hobbie:
+
+* Boxing (some amature bouts)
+* Calisthenics (able to do muscle up,1 arm pullups,20+ pullups,100+ push ups ,handstand push ups , different planche etc)
+* badminton 
+* Swim
+
+
+* Achive excellence in meditation
+
+[ solving rubicks cube,
+  using chop sticks ,
+  nunchucks ]
+
+
+
+* learn languages (japanease(full), korean, telagu, malayalam etc)
+* Guitar
+* Drawing
+* learn to play Chess
+
+* Dance
+
+* Travel on bike and document
+* Photography
+
+
+(future)
+* Gardening
+* Sculpturing
